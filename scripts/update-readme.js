@@ -2,9 +2,9 @@ import { Octokit } from "@octokit/rest";
 import fs from "node:fs/promises";
 import pLimit from "p-limit";
 
-const TOKEN = process.env.GH_PAT || process.env.GITHUB_TOKEN;
+const TOKEN = process.env.GH_PAT || process.env.GITHUB_TOKEN || process.env.GH_AT;
 if (!TOKEN) {
-  console.error("Missing GH_PAT/GITHUB_TOKEN");
+  console.error("Missing GH_PAT/GITHUB_TOKEN/GH_AT");
   process.exit(1);
 }
 
