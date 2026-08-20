@@ -1,6 +1,4 @@
-# Daily Maintenance Bot
-
-This repository is automatically updated every day.
+# This repository is automatically updated every 6 hrs.
 
 ## Summary
 <!-- STATS:START -->
