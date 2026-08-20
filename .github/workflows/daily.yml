@@ -23,7 +23,7 @@ jobs:
 
       - name: Update README
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_AT: ${{ secrets.GH_AT }}
         run: npm run update
 
       - name: Commit & push if changed
