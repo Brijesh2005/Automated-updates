@@ -2,37 +2,37 @@
 
 ## Summary
 <!-- STATS:START -->
-**Update:** 2026-08-22T00:38:01.578Z  
-**Last run (UTC):** Sat, 22 Aug 2026 00:38:01 GMT  
-**Force Update Token:** 1787359085602-y4r4ef  
-**Total Public Repos:** 16  
-**Total Stars:** 79 • **Total Forks:** 19  
-**Open Issues:** 2 • **Open PRs:** 0
+**Update:** 2026-08-22T03:06:26.828Z  
+**Last run (UTC):** Sat, 22 Aug 2026 03:06:26 GMT  
+**Force Update Token:** 1787367989143-fimocf  
+**Total Public Repos:** 8  
+**Total Stars:** 0 • **Total Forks:** 2  
+**Open Issues:** 0 • **Open PRs:** 27
 <!-- STATS:END -->
 
 ## Languages (Top 10)
 <!-- LANGS:START -->
 Language | Percentage
 --- | ---
-TypeScript | 28.2%
-Python | 25.1%
-JavaScript | 21.4%
-CSS | 11.4%
-Dart | 8.3%
-HTML | 4.7%
-Kotlin | 0.5%
-Dockerfile | 0.2%
-Java | 0.1%
-PowerShell | 0.1%
+Python | 79.7%
+C | 12.0%
+TypeScript | 4.0%
+JavaScript | 2.5%
+Jupyter Notebook | 0.7%
+CSS | 0.5%
+Yacc | 0.2%
+Shell | 0.1%
+HTML | 0.1%
+HCL | 0.1%
 <!-- LANGS:END -->
 
 ## Last 5 Updated Repositories
 <!-- RECENT:START -->
 Repo | Stars | Forks | Updated
 --- | --- | --- | ---
-[Automated-updates](https://github.com/hafilrazz/Automated-updates) | 0 | 1 | 2026-08-21
-[Dotmail](https://github.com/hafilrazz/Dotmail) | 0 | 1 | 2026-08-19
-[YouTube-Adfree](https://github.com/hafilrazz/YouTube-Adfree) | 1 | 1 | 2026-08-17
-[livetv](https://github.com/hafilrazz/livetv) | 1 | 1 | 2026-08-17
-[Bitconnect](https://github.com/hafilrazz/Bitconnect) | 66 | 3 | 2026-08-15
+[CropPrep](https://github.com/Brijesh2005/CropPrep) | 0 | 0 | 2026-08-20
+[WaterMan](https://github.com/Brijesh2005/WaterMan) | 0 | 1 | 2026-08-13
+[CropFusion](https://github.com/Brijesh2005/CropFusion) | 0 | 0 | 2026-07-26
+[ClipAI](https://github.com/Brijesh2005/ClipAI) | 0 | 0 | 2026-06-16
+[FARM_BUD](https://github.com/Brijesh2005/FARM_BUD) | 0 | 1 | 2026-04-12
 <!-- RECENT:END -->
